@@ -54,6 +54,7 @@
 - [ ] Tests have meaningful assertions with clear and descriptive error messages for quick diagnosis `[CORE]`
 - [ ] Handles unexpected failures gracefully without halting the suite `[CORE]`
 - [ ] Configurable logging levels (e.g., debug, info, error) `[NICE TO HAVE]`
+- [ ] Automatic screenshots or data dumps on failure (for UI tests or API responses) `[CORE]`
 
 ### Environment Configuration
 - [ ] Centralized configuration files for managing settings and environments `[CORE]`
