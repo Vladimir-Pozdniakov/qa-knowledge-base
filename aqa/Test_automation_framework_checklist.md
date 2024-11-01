@@ -76,6 +76,7 @@
 - [ ] Test report is available for all team members and stakeholders `[CORE]`
 - [ ] The status of the test results is sent to the messenger (e.g., slack, discord, email) `[NICE TO HAVE]`
 - [ ] Test results are integrated with TCM test runs to track execution `[NICE TO HAVE]`
+- [ ] Test report must contain a SUT build version (for mobile/tv/automotive apps) or code version hash commit (for front-end/back-end) `[NICE TO HAVE]`
 
 ### CI/CD
 - [ ] The test pipeline can be run manually by any development team member `[NICE TO HAVE]`
