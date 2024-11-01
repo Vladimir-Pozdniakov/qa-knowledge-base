@@ -57,6 +57,7 @@
 - [ ] Automatic screenshots or data dumps on failure (for UI tests or API responses) `[CORE]`
 
 ### Environment Configuration
+- [ ] Utilize a strategy to manage environment-specific configurations (e.g., Dev, QA, Production - if applicable) `[CORE]`
 - [ ] Centralized configuration files for managing settings and environments `[CORE]`
 - [ ] Supports running tests in multiple environments, cross-platform testing (if applicable) `[NICE TO HAVE]`
 - [ ] Configuration is environment-independent and adaptable `[NICE TO HAVE]`
