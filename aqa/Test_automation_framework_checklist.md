@@ -33,7 +33,7 @@
 1. - [ ] Allows using different datasets based on test configuration `[NICE TO HAVE]`
 
 ### Test Run Management
-1. - [ ] Supports configuring test run scope (e.g., smoke, regression, functional, E2E, etc.) `[CORE]`
+1. - [ ] Supports customization of the test run scope (e.g., smoke, regression, functional, E2E, etc.) `[CORE]`
 1. - [ ] Supports tagging tests for selective execution `[NICE TO HAVE]`
 1. - [ ] Execution flexibility for the local environment `[NICE TO HAVE]`
 1. - [ ] Execution flexibility for CI/CD environment `[CORE]`
@@ -92,5 +92,5 @@
 1. - [ ] Changes are submitted through pull requests that others can review before merging `[CORE]`
 1. - [ ] Examples demonstrate framework setup and usage `[NICE TO HAVE]`
 1. - [ ] Documentation is regularly updated and up to date `[CORE]`
-1. - [ ] Regularly scheduled updates for dependencies and maintenance `[CORE]`
+1. - [ ] The project's library packages are regularly updated `[CORE]`
 	
